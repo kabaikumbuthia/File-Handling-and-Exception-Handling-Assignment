@@ -1,5 +1,5 @@
-📂 File Read & Write Challenge & Error Handling Lab
-📖 Overview
+**📂 File Read & Write Challenge & Error Handling Lab
+📖 Overview**
 
 This project demonstrates how to:
 
